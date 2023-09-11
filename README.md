@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<br><b> ❛-𝐀𝐋𝐢𝐬𝐇𝐚 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋 𝐌𝐮𝐒𝐢𝐜'𝐗 🎸
+<br><b> ❛-KILLER 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋 MUSIC'X 🎸
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/Sad_shayari_lovers"><img src="https://telegra.ph/file/7d06c74e7895e1627722b.jpg"></a></p>
+<p align="center"><a href="https://t.me/about_Mr_Killer_Op"><img src="https://graph.org/file/9d9d77d407eaad08d7ed0.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
