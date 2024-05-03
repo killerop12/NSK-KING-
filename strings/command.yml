@@ -4,8 +4,8 @@ START_COMMAND : ["start", "mstart"]
 HELP_COMMAND : ["help"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
-GSTATS_COMMAND : ["gstats", "globalstats"]
-STATS_COMMAND : ["stats"]
+GSTATS_COMMAND : ["fgstats", "fglobalstats"]
+STATS_COMMAND : ["fstats"]
 LANGUAGE_COMMAND : ["lundlang", "lavdalele", "langlund"]
 
 # Play Commands
