@@ -5,19 +5,19 @@
 <br><b> ❛-KILLER 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋 MUSIC'X 🎸
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/about_Mr_Killer_Op"><img src="https://graph.org/file/9d9d77d407eaad08d7ed0.jpg"></a></p>
+<p align="center"><a href="https://t.me/ABOUT_MR_KILLER_OP"><img src="https://graph.org/file/9d9d77d407eaad08d7ed0.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=killer+play+music+on+telegram+voice+chat+feature;Managed+by+killer+x+qayamat%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=killer+play+music+on+telegram+voice+chat+feature;Managed+by+killer+x+dark%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Killer/KillerMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/killerop12/NSK-KING"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 
@@ -28,7 +28,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install python3-pip ffmpeg -y
 sudo pip3 install -U pip
 curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-git clone https://github.com/Team-Alisha/AlishaMusic &&  cd AlishaMusic
+git clone https://github.com/killerop12/NSK-KING &&  cd NSK-KING
 pip3 install -U -r requirements.txt
 apt install nano
 nano .env
@@ -58,6 +58,6 @@ bash start
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Support & Developer 🎑
-<a href="https://t.me/FriendshipWorldGroup"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/VeNom_HaiN_HuM"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ABOUT_MR_KILLER_OP"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/KILLER_OP_12"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
